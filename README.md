@@ -1,4 +1,5 @@
 # MDM_359
+<<<<<<< HEAD
 
 This repository is a fork of [motion-diffusion-model](https://github.com/GuyTevet/motion-diffusion-model), which can be used to generate human motions with dexterous right hand.
 
